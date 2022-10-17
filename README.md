@@ -1,5 +1,4 @@
-# Portfolio
-
+## Portfolio
 
 ### 1. IBM Data Science Certificate Capstone Project
    - Python files for Capstone project for IBM Data Science Certificate 
