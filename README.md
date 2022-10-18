@@ -3,10 +3,12 @@
 ### 1. IBM Data Science Certificate Capstone Project
    - Python files for Capstone project for IBM Data Science Certificate 
    - Project theme focuses on historical launch records of Space-X
-   - touches on API, webscraping (BeatifulSoup), data wrangling (Panadas), SQL, creating dashboard, Machine learning with Sklearn
+   - Touches on API, webscraping (BeatifulSoup), data wrangling (Panadas), SQL, creating dashboard, Machine learning with Sklearn
    
 ### 2. English Word Statistics 
    - Side project written in Python with Pandas, PandaSQL libraries
-   - created bar chart showing word count for varying word length
-   - created bar and pie chart showing word count based on first letter
+   - Created bar chart showing word count for varying word length
+   - Created bar and pie chart showing word count based on first letter
    
+### 9. Excel VBA from Prev. Work
+   - Includes quick live demo videos of VBA tools I've created in my past professional experiences
