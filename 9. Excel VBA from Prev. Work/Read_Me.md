@@ -6,8 +6,8 @@
 
 ### 2. SAP2000 Multiple Seciton Cutter
    - SAP2000 is commonly used structural engineering software that analyses mechanical behaviour of structure (eg. how building moves under weight)
-   - It includes a feature called 'section', which allows user to slice a structure model to observe the internal forces.
-   - SAFE includes API, which allows user to extract internal force of a section.
-   - My spreadsheet automates creation of multiple sections in SAP2000 and extracts internal forces, as well create force diagrams.  
+   - It includes a feature called 'section', which allows user to slice a structure model to observe the internal forces
+   - SAFE includes API, which allows user to extract internal force of a section
+   - My spreadsheet automates creation of multiple sections in SAP2000 and extracts internal forces, as well create force diagrams
    
 
