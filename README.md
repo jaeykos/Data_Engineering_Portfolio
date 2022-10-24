@@ -3,8 +3,8 @@
 This repo includes projects I have completed. 
 Apart from this repo, I also have repositories for tutorials and assignments of the courses I have completed:  <br />
 [Azure DataBricks Course](https://github.com/jaeykos/Azure-Databricks-Course)  <br />
-https://github.com/jaeykos/IBM-Data-Engineering-Professional-Certificate  <br />
-https://github.com/jaeykos/IBM-Data-Science-Certificate  <br />  <br />
+[IBM Data Engineering Courses](https://github.com/jaeykos/IBM-Data-Engineering-Professional-Certificate)  <br />
+[IBM Data Science Courses](https://github.com/jaeykos/IBM-Data-Science-Certificate)  <br />  <br />
 
 ### 1. IBM Data Science Certificate Capstone Project
    - Python files for the IBM Data Science Certificate Capstone Project
