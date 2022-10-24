@@ -1,5 +1,11 @@
 ## Portfolio
 
+This repo includes projects I have completed. 
+Apart from this repo, I also have repositories for tutorials and assignments of the courses I have completed:
+https://github.com/jaeykos/Azure-Databricks-Course
+https://github.com/jaeykos/IBM-Data-Engineering-Professional-Certificate
+https://github.com/jaeykos/IBM-Data-Science-Certificate
+
 ### 1. IBM Data Science Certificate Capstone Project
    - Python files for the IBM Data Science Certificate Capstone Project
    - Project theme focuses on the historical launch records of Space-X
