@@ -15,6 +15,4 @@ Apart from this repo, I also have repositories for tutorials and assignments of 
    - Side project, written in Python with Pandas, PandaSQL libraries
    - Created a bar chart showing word count for varying word length
    - Created a bar and pie chart showing word count based on first letter
-   
-### 9. Excel VBA from Prev. Work
-   - Includes quick live demo videos of VBA tools I've created in my past professional experiences
+ 
