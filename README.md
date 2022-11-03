@@ -11,12 +11,12 @@ Apart from this repo, I also have repositories for tutorials and assignments of 
    - Project theme focuses on the historical launch records of Space-X
    - Touches on API, webscraping (BeatifulSoup), data wrangling (Panadas), SQL, creating dashboard, Machine learning with Sklearn
    
-### 2. English Word Statistics 
-   - Side project, written in Python with Pandas, PandaSQL libraries
+### 2. English Word Statistics (personal project)
+   - Written in Python with Pandas, PandaSQL libraries
    - Created a bar chart showing word count for varying word length
    - Created a bar and pie chart showing word count based on first letter
  
-### 3. Trading History of Major Canadian Banks
+### 3. Trading History of Major Canadian Banks (personal project)
    - Created [Tableau dashboard showing trading history of major Canadian Banks](https://public.tableau.com/app/profile/jae.kang/viz/TrandingHistoryofMajorCanadianBanks/)
    - Written in Python with Pandas, and Pandassql 
    - Data is updated on daily basis via with Task Scheduler 
