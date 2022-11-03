@@ -17,7 +17,7 @@ Apart from this repo, I also have repositories for tutorials and assignments of 
    - Created a bar and pie chart showing word count based on first letter
  
 ### 3. Trading History of Major Canadian Banks (personal project)
-   - Created [Tableau dashboard showing trading history of major Canadian Banks](https://public.tableau.com/views/TrandingHistoryofMajorCanadianBanks/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+   - Created [Tableau dashboard showing trading history of major Canadian Banks](https://public.tableau.com/views/StockTradingHistoryofMajorCanadianBanks/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
    - Written in Python with Pandas, and Pandassql 
    - Data is updated on daily basis via with Task Scheduler 
    - Database: Google Sheets (Tableau Public only offers automatic data refresh on Google Sheets only)
