@@ -1,9 +1,7 @@
 ## File Description
 
-### 1. IBM Data Science Certificate Capstone Project
-   - Python files for the IBM Data Science Certificate Capstone Project
-   - Project theme focuses on the historical launch records of Space-X
-   - Touches on API, webscraping (BeatifulSoup), data wrangling (Panadas), SQL, creating dashboard, Machine learning with Sklearn
+### 1. Populate Stock Data (3yrs).ipynb
+   - This script was ran initally to set up 3 years of trading history data into Google Sheet
    
 ### 2. English Word Statistics 
    - Side project, written in Python with Pandas, PandaSQL libraries
