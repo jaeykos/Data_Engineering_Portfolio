@@ -13,6 +13,7 @@ Apart from this repo, I also have repositories for tutorials and assignments of 
    - Written in Python with Pandas, PandaSQL libraries
    - Created a bar chart showing word count for varying word length
    - Created a bar and pie chart showing word count based on first letter
+   - See file 'English Word Statistics.ipynb' for data analysis results and charts
  
 ### 3. Trading History of Major Canadian Banks (personal project)
    - Created [Tableau dashboard showing trading history of major Canadian Banks](https://public.tableau.com/views/StockTradingHistoryofMajorCanadianBanks/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
